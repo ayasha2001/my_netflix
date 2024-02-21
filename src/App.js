@@ -1,8 +1,11 @@
-import logo from "./logo.svg";
-import "./App.css";
+import Body from "./component/Body";
 
 function App() {
-  return <div className="text-3xl ">Ji</div>;
+  return (
+    <div>
+      <Body />
+    </div>
+  );
 }
 
 export default App;
