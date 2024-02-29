@@ -1,0 +1,1 @@
+export const YOUTUBE_URL = "http://www.youtube.com//embed/"
